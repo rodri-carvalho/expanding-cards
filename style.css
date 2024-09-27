@@ -21,6 +21,11 @@ h1.title {
     margin: 10px 0px 10px 0px;
 }
 
+.div-tela {
+    height: 100%;
+    align-items: center;
+}
+
 .div-aviso {
     position: absolute;
     display: none;
